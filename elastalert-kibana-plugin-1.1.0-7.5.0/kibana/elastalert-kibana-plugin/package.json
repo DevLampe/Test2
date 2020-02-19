@@ -1,0 +1,14 @@
+{
+  "name": "elastalert-kibana-plugin",
+  "version": "1.1.0",
+  "description": "Create, test and edit ElastAlert rules within Kibana.",
+  "main": "index.js",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "kibana": {
+    "version": "7.5.1",
+    "templateVersion": "1.0.0"
+  },
+  "dependencies": {
+    "@elastic/eui": "^11.0.1"
+  }
+}
